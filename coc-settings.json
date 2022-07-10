@@ -1,0 +1,12 @@
+{
+  "coc.preferences.hoverTarget": "preview",
+  "signature.enable": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx"
+  ]
+}
